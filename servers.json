@@ -1,12 +1,17 @@
 [
     {
-        "host": "67.207.85.29",
+        "host": "sv1.movistar-nicaragua.tk",
         "image": "us.png",
-        "name": "NewYork Sv1"
+        "name": "Miami [Sv1]"
     },
 {
-        "host": "159.223.106.202",
+        "host": "atlanta.movistar-nicaragua.tk",
         "image": "us.png",
-        "name": "Nb2"
+        "name": "Atlanta [Sv2]"
+    },
+{
+        "host": "miami1.movistar-nicaragua.tk",
+        "image": "us.png",
+        "name": "Miami [Sv3]"
     }
 ]
