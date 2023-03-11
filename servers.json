@@ -13,10 +13,5 @@
         "host": "miami1.movistar-nicaragua.tk",
         "image": "us.png",
         "name": "Miami [Sv3]"
-    },
-    {
-        "host": "162.212.154.51",
-        "image": "us.png",
-        "name": "v2ray test"
     }
 ]
